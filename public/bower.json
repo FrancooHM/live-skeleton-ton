@@ -1,13 +1,12 @@
 {
-  "name": "skeleton",
-  "version": "2.0.4",
-  "homepage": "http://getskeleton.com/",
+  "name": "live-skeleton-ton",
+  "version": "1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/FrancooHM/live-skeleton-ton"
   },
   "authors": [
-    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    "Franco Rabaglia <francoo.hd@gmail.com> (http://francorabaglia.tumblr.com/)"
   ],
   "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
   "main": "css/skeleton.css",
